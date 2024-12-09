@@ -13,7 +13,7 @@ Twinkos is an open-source project aimed at providing users with a simple way to 
 ## Features 🎉
 * [X] Anti-Telemetry 🔒
 * [X] Disable built-in advertisings 📺
-* [X] Disable background apps 💻
+* [X] Windows optimisation 💻 (In active development)
 * [ ] Gaming optimisation 🎮 (coming soon)
 
 ## Usage Instructions 📋
